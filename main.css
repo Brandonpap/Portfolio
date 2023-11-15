@@ -1,4 +1,60 @@
-body{
-    background-color:lightcyan;
-    height: 100vh; 
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #a6cdeb;
 }
+
+header, nav, section {
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+nav a {
+    text-decoration: none;
+    color: #1a87fc;
+    margin: 0 10px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+footer {
+    margin-top: 20px;
+    text-align: center;
+    background-color: #ffffff;
+    color: #000000;
+    padding: 10px;
+}
+/* I hope this works*/
