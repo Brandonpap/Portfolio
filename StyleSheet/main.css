@@ -50,6 +50,9 @@ th, td {
     text-align: left;
 }
 
+.even {color: rgb(237, 163, 34);}
+.odd {color: rgb(45, 109, 237);}
+
 footer {
     margin-top: 20px;
     text-align: center;
